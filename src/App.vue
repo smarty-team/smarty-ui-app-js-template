@@ -16,7 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/smarty.svg" style="filter: invert(100%);" class="logo" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue + SmartyUI" />
+  <HelloWorld msg="SmartyUI + Vite + Vue" />
   <div style="margin-bottom:20px;">
     <SButton color="blue">主要按钮</SButton>
     <SButton color="green">绿色按钮</SButton>
